@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oxford Fintech & Legaltech Blog
-permalink: /about
+permalink: about
 comments: true
 ---
 
