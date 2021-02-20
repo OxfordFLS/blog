@@ -2,7 +2,7 @@
 layout: post
 title:  "OFLS Hosts Social Dilemma Panel Discussion"
 author: ofls
-categories: [ social media, review ]
+categories: [ event report, ethics ]
 image: assets/images/sd.jpeg
 ---
 OFLS recently brought together Jeff Orlowski (Director of the Netflix Documentary ‘The Social Dilemma’), Dr Silvia Milano, Dr Brent Mittelstadt, and Megan Ma (pre-eminent academics in the fields of Law and Computers) to discuss the challenges posed by social media to today’s society. The panel explored several thought-provoking issues such as data privacy, digital ethics and the future of digital regulation.
