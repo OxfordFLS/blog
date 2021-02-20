@@ -4,7 +4,7 @@ title:  "Introduction to Decentralised Finance: Trusting a Trustless System"
 author: Melvin
 categories: [ decentralised, ethereum ]
 image: assets/images/euler.jpeg
-featured: true
+featured: false
 hidden: false
 ---
 
