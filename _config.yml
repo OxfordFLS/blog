@@ -2,8 +2,8 @@
 name: "OFLS"
 title: "Oxford Fintech & Legaltech Society Blog"
 description: "Welcome to the Oxford Fintech & Legaltech Society Blog"
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/logo.png'
+logo: '/assets/images/logo-cube.jpg'
+favicon: '/assets/images/favicon-16x16.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
