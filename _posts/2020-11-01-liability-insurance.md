@@ -3,7 +3,7 @@ layout: post
 title:  "Event Report — Robot Directors and Directors’ and Officers’ Liability ‘Insurance’: Adapt or Die"
 author: ofls
 categories: [ AI ]
-image: assets/images/robot/jpeg
+image: assets/images/robot.jpeg
 ---
 oardrooms function as the nucleus of the corporate machine, wielding control over the key decisions within the firm. The high-stakes nature of such decisions typically invokes the most human of interactions through tense negotiations and bitter debates. However, the advent of artificial intelligence (AI) threatens to upend the traditional anatomy of corporate boards through so-called 'robo-directors'. In an enlightening presentation, Dr. Adolfo Paolini, consultant at Clyde & Co., introduced the growing potential of 'robo-directors' within the boardroom, as well as the key issues presented by such developments for corporate governance and insurance liability.
 
