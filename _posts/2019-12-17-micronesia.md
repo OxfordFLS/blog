@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "From Micronesia to Blockchain"
-author: Irina & Vaibhav
+author: irina <!--& vaibhav-->
 categories: [blockchain]
 image: assets/images/sd.jpeg 
 ---
