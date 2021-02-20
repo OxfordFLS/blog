@@ -5,7 +5,7 @@ author: Melvin
 categories: [ decentralised, ethereum ]
 image: assets/images/euler.jpeg
 featured: true
-hidden: true
+hidden: false
 ---
 
 Does Decentralised Finance (DeFi) trump Centralised finance (CeFi)? This week Michael A. Bentley, an Oxford alumnus who founded Euler xyz, a permissionless lending protocol based on Ethereum, gave his views on why DeFi is experiencing exponential growth. The event was jointly hosted by OFLS and the Oxford Blockchain Society.
