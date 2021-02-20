@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Event Report — Open Banking: A Business Perspective"
