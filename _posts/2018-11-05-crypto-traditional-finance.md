@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Traditional Financial Services Provider Will Trade using Cryptos"
-author: OFLS
+author: ofls
 categories: [crypto]
 image: assets/images/trad.png
 ---
