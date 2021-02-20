@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Legaltech 101 Workshop Series: Student to Founder — The Legaltech Journey"
-author: OFLS
+author: ofls
 categories: [ legaltech, event report ]
 image: assets/images/rd.jpg
 featured: false
