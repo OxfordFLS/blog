@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Legaltech 101 Workshop Series: The Truths about Law Firms & Technology"
-author: Daniel
+author: daniel
 categories: [ legaltech ]
-tags: [red, yellow]
 image: assets/images/fuse.jpeg
 description: "The most recent event as part of our Legaltech 101 Workshop saw us host an all-star panel led by Allen & Overy FUSE. The event, ‘The Truths about Law Firms & Technology’, provided an insight into A&O FUSE as well as presentations from three market-leading legaltech start-ups based in FUSE — Avvoka, Define, and StructureFlow."
 featured: false
