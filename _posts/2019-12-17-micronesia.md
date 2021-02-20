@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "The European Commission’s Investigation against Amazon for Anti-Competitive use of Vendor Data on its Digital Marketplace"
+title:  "From Micronesia to Blockchain"
 author: irina
 categories: [ blockchain ]
-image: assets/images/sd.jpeg
+image: assets/images/pink.png
 ---
 In the Micronesian island of Yap, there is no 'money' in the conventional sense. There are only Rai stones; these are large, round stones which are used as currency, based on an oral history of ownership. In this civilization, it is known who 'owns' a Rai stone, and when the owner makes a purchase, the ownership of the stone is transferred and the information about who is the new owner circulates among the islanders. For heavy stones, no physical movement is even required; as long as it has been recorded orally (and in the memories of the islanders) that the owner has changed, the transaction is complete.
 
