@@ -14,7 +14,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  selina:
     name: Selina
     display_name: Selina
     avatar: 'assets/images/avatar.png'
@@ -23,15 +23,42 @@ authors:
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
     description: "IT Officer of OFLS"
-  john:
+  dom:
     name: Domenico
-    display_name: Dom   
+    display_name: Domenico
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
     description: "Ex-president of OFLS 2019"
+  daniel:
+    name: Daniel
+    display_name: Daniel
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Associate Editor at OFLS"
+  melvin:
+    name: Melvin
+    display_name: Melvin  
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Fintech researcher at OFLS"
+  sampada:
+    name: Sampada 
+    display_name: Sampada  
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "A Legal Researcher at OFLS, and a BA student in Law (2022), University of Oxford"
 
 # Plugins
 plugins:
