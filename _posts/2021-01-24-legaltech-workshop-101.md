@@ -4,7 +4,7 @@ title:  "Legaltech 101 Workshop Series: Student to Founder — The Legaltech Jou
 author: OFLS
 categories: [ legaltech, review ]
 image: assets/images/rd.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
