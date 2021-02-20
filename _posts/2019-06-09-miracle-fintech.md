@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Fintech Investment in the UK: Miracle or Mystery?"
-author: Shiyi
-categories: [UK]
+author: shiyi
+categories: [fintech]
 image: assets/images/sky.jpeg
 ---
 Even though Brexit problems remain unsolved and many business sectors in the UK are suffering from this uncertainty, British fintech firms seem to be [unaffected](http://www.cityam.com/273120/uks-fintech-landscape-reached-record-levels-investment-last) by this [\[1\]](https://ofls.medium.com/fintech-investment-in-the-uk-miracle-or-mystery-2b6c06c551d1#_ftn1). Those firms attracted a record high of £1.34 billion in venture capital funding in 2017, followed by an 18% increase in 2018\. This record meant the UK overshadowed the rest of Europe and retained its spot in the top three for fintech investment, behind China and the US. The three reasons below might explain this seemingly mysterious phenomenon:
