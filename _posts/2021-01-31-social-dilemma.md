@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OFLS Hosts Social Dilemma Panel Discussion"
-author: sal
+author: ofls
 categories: [ social media, review ]
 image: assets/images/sd.jpeg
 ---
