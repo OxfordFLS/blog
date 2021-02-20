@@ -3,7 +3,7 @@ layout: post
 title:  "Combatting fraudulent transactions with Machine Learning"
 author: vaibhav
 categories: [ fintech, AI ]
-image: assets/images/ml.jpg
+image: assets/images/black.jpeg
 ---
 Financial crime has always been a major concern for financial institutions[\[1\]](https://ofls.medium.com/combatting-fraudulent-transactions-with-machine-learning-805a9e0353c9#_ftn1). Combatting fraud requires an expensive apparatus of algorithms, technology and equipment that must be constantly updated. Also, when fraudulent activity such as money laundering fails to be detected, it can drive sanctions by the regulators.
 
