@@ -62,7 +62,7 @@ authors:
   shiyi:
     name: Shiyi
     display_name: Shiyi
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/shiyi.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -71,7 +71,7 @@ authors:
   vaibhav:
     name: Vaibhav
     display_name: Vaibhav
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/vaibhav.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -80,7 +80,7 @@ authors:
   irina:
     name: Irina
     display_name: Irina
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/irina.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -89,12 +89,12 @@ authors:
   sophia:
     name: Sophia
     display_name: Sophia
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/sophia.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
-    web: https://oxfordfls.org
+    web: https://www.linkedin.com/in/sophia-chau-175b631a4/)_is
     twitter: https://twitter.com/oxfordFLS
-    description: "Legaltech researcher at OFLS"
+    description: "A Legaltech Researcher at OFLS, and a MSc student in Law and Finance (2020) at the University of Oxford"
   ofls:
     name: OFLS
     display_name: OFLS
@@ -107,7 +107,7 @@ authors:
   alfonso:
     name: Alfonso
     display_name: Alfonso
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/alfonso.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
