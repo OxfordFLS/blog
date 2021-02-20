@@ -3,7 +3,7 @@ layout: post
 title:  "Event Report — Tech Law and the Modern Lawyer"
 author: sophia
 categories: [ event report ]
-image: assets/images/logo.png
+image: assets/images/ml.jpg
 ---
 
 In our most recent event, Rajesh Sreenivasan, head of Rajah & Tann Technologies, shared his insights of how technology is amplifying and augmenting the practice of law. Rajesh has a rich and distinguished career in providing legal advice to clients in relation to an array of technological areas of law, such as cybersecurity, data protection, cloud computing and digital currencies. As a vocal advocate of the importance of technology within the legal industry, he is keen to drive awareness of the importance of technology in law and to change the traditional mindset that lingers within the industry.
@@ -19,9 +19,5 @@ Within this transition process, Rajesh notes the importance of ‘design-thinkin
 
 As a case in point of his analysis, Rajesh highlighted the success of how legal practice in Asia was currently being innovatively reshaped by technology. The key results have shown how technological instruments are boosting collaboration in law and allowing lawyers to better serve their clients.
 
-About the Author:
 
-Sophia Chau is a Legaltech Researcher at OFLS, and a MSc student in Law and Finance (2020) at the University of Oxford.
-
-
-Photo by Sean Pollock on Unsplash
+(Photo by Sean Pollock on Unsplash)
