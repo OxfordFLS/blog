@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Fintech Investment in the UK: Miracle or Mystery?"
