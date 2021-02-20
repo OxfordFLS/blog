@@ -21,6 +21,6 @@ As a case in point of his analysis, Rajesh highlighted the success of how legal 
 
 About the Author:
 
-[_Sophia Chau_](https://www.linkedin.com/in/sophia-chau-175b631a4/)_is a Legaltech Researcher at OFLS, and a MSc student in Law and Finance (2020) at the University of Oxford._
+[_Sophia Chau_] (https://www.linkedin.com/in/sophia-chau-175b631a4/)_is a Legaltech Researcher at OFLS, and a MSc student in Law and Finance (2020) at the University of Oxford._
 
 Photo by [Sean Pollock](https://unsplash.com/@seanpollock?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
