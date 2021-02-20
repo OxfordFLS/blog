@@ -104,7 +104,7 @@ authors:
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
     description: "Oxford Fintech & Legaltech Society Committee"
- alfonso:
+  alfonso:
     name: Alfonso
     display_name: Alfonso
     avatar: 'assets/images/avatar.png'
