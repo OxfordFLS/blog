@@ -20,4 +20,4 @@ Within this transition process, Rajesh notes the importance of ‘design-thinkin
 As a case in point of his analysis, Rajesh highlighted the success of how legal practice in Asia was currently being innovatively reshaped by technology. The key results have shown how technological instruments are boosting collaboration in law and allowing lawyers to better serve their clients.
 
 
-(Photo by Sean Pollock on Unsplash)
+(Photo by [Sean Pollock](https://unsplash.com/@seanpollock?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral))
