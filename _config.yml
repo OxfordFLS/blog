@@ -4,7 +4,7 @@ title: "Oxford Fintech & Legaltech Society Blog"
 description: "Welcome to the Oxford Fintech & Legaltech Society Blog"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
-baseurl: 'oxfordfls.github.io/'
+baseurl: '/'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://oxfordfss.us18.list-manage.com/subscribe?u=096c4257fd50892e3a2af1f28&id=f9f9cfb2d7'
