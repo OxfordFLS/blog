@@ -95,7 +95,15 @@ authors:
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
     description: "Legaltech researcher at OFLS"
-
+ofls:
+    name: OFLS
+    display_name: OFLS
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: ""
 # Plugins
 plugins:
   - jekyll-paginate
