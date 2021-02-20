@@ -1,9 +1,9 @@
 
 ---
 layout: post
-title:  "Event Report — Tech Law and the Modern Lawyer"
+title:  "Tech Law and the Modern Lawyer"
 author: sophia
-categories: [legaltech]
+categories: [legaltech, event report]
 image: assets/images/ml.jpg
 featured: false
 hidden: false
