@@ -123,17 +123,16 @@ post_class: post-template
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             {% if page.previous.url %}
-            <a class="prev d-block col-md-6" href="{{ site.baseurl }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
+            <a class="prev d-block col-md-6" href="{{ site.url }}/{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
             {% endif %}
-                
-            <!----SUGGESTION
+              <!--removed sitebaseurl to siteurl. - 02-20-2021-->
+            
             {% if page.next.url %}
             <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}} &raquo; </a>
-            {% endif %}----->
-                
-             {% if page.next_in_category %}
-            <a class="next d-block col-md-6 text-lg-right" href="{{ page.next_in_category.url }}">{{ page.next_in_category.title }}</a>
             {% endif %}
+            href="{{ paginator.next_page_path | prepend: site.url | replace: '//', '/' }}">
+                
+
 
             <div class="clearfix"></div>
             </div>
