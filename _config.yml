@@ -26,7 +26,7 @@ authors:
   dom:
     name: Domenico
     display_name: Domenico
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/dom.jpeg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -35,7 +35,7 @@ authors:
   daniel:
     name: Daniel
     display_name: Daniel
-    avatar: 'assets/images/daniel.jpeg'
+    avatar: 'assets/images/daniel.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
