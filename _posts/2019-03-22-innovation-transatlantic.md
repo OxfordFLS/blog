@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Data, Innovation and Transatlantic Competition in Finance: The Case of the Access to Account Rule"
