@@ -59,6 +59,42 @@ authors:
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
     description: "A Legal Researcher at OFLS, and a BA student in Law (2022), University of Oxford"
+  shiyi:
+    name: Shiyi
+    display_name: Shiyi
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Former fintech researcher of OFLS and a graduate of MSc Law and Finance (2019)"
+  vaibhav:
+    name: Vaibhav
+    display_name: Vaibhav
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Former Associate Editor of OFLS (2019-2020)"
+  irina:
+    name: Irina
+    display_name: Irina
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Former legaltech researcher of OFLS and a graduate of MSc Law and Finance (2019)"
+  sophia:
+    name: Sophia
+    display_name: Sophia
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Legaltech researcher at OFLS"
 
 # Plugins
 plugins:
