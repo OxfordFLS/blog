@@ -35,7 +35,7 @@ authors:
   daniel:
     name: Daniel
     display_name: Daniel
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/daniel.jpeg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -44,7 +44,7 @@ authors:
   melvin:
     name: Melvin
     display_name: Melvin  
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/melvin.jpeg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -53,7 +53,7 @@ authors:
   sampada:
     name: Sampada 
     display_name: Sampada  
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/sampada.jpeg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
