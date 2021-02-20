@@ -113,6 +113,16 @@ authors:
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
     description: "Founder of OFLS - formerly FSS. MLF17"
+  oscar:
+    name: Oscar Borgogno
+    display_name: Oscar
+    avatar: 'assets/images/alfonso.jpg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: contact@oxfordfls.org
+    web: https://oxfordfls.org
+    twitter: https://twitter.com/oxfordFLS
+    description: "Oscar is a PhD Candidate, Law Department, University of Turin and a MSc in Law and Finance Candidate, University of Oxford."
+
     
 # Plugins
 plugins:
