@@ -19,53 +19,54 @@ authors:
     display_name: Selina
     avatar: 'assets/images/selina.png'
     description: "IT Officer of OFLS"
+    linkedin: company/oxfordfls/
   dom:
     name: Domenico
     display_name: Domenico
     avatar: 'assets/images/dom.jpg'
-    linkedin: domenico-piers-de-martino-753410148/
+    linkedin: in/domenico-piers-de-martino-753410148/
     description: "Domenico is a former President of the Oxford Fintech and Legaltech Society. He is currently a Research Assistant at the University of Oxford and is an alumnus of the Masters in Law and Finance (2019)"
   daniel:
     name: Daniel
     display_name: Daniel
     avatar: 'assets/images/daniel.jpg'
-    linkedin: daniel-goode-215258132/
+    linkedin: in/daniel-goode-215258132/
     description: "Daniel is an Associate Editor at OFLS, and a MSc candidate in Law and Finance (2021) at the University of Oxford"
   melvin:
     name: Melvin
     display_name: Melvin  
     avatar: 'assets/images/melvin.jpg'
-    linkedin: melvinobadha/
+    linkedin: in/melvinobadha/
     description: "Melvin is a Fintech Researcher at OFLS, and a DPhil candidate in Health Economics (2022) at the University of Oxford."
   sampada:
     name: Sampada 
     display_name: Sampada  
     avatar: 'assets/images/sampada.jpg'
-    linkedin: sampada-sudheesh-venkatesh-6241ab1b2/
+    linkedin: in/sampada-sudheesh-venkatesh-6241ab1b2/
     description: "Sampada is a Legal Researcher at OFLS, and a BA student in Law (2022) at the University of Oxford."
   shiyi:
     name: Shiyi
     display_name: Shiyi
     avatar: 'assets/images/shiyi.jpg'
-    linkedin: shiyi-huang/
+    linkedin: in/shiyi-huang/
     description: "Shiyi is a former fintech researcher of OFLS and an alumnus of the Masters in Law and Finance (2019)"
   vaibhav:
     name: Vaibhav
     display_name: Vaibhav
     avatar: 'assets/images/vaibhav.jpg'
-    linkedin: vaibhav-manchanda-18664b59/
+    linkedin: in/vaibhav-manchanda-18664b59/
     description: "Vaibhav is a former Associate Editor of OFLS (2019-2020). He received his BA in Law at the University of Oxford."
   irina:
     name: Irina
     display_name: Irina
     avatar: 'assets/images/irina.jpg'
-    linkedin: irini-tsoutsou/
+    linkedin: in/irini-tsoutsou/
     description: "Irina is a former legaltech researcher of OFLS and an alumnus of the Masters in Law and Finance (2019)."
   sophia:
     name: Sophia
     display_name: Sophia
     avatar: 'assets/images/sophia.png'
-    linkedin: sophia-chau-175b631a4/
+    linkedin: in/sophia-chau-175b631a4/
     description: "Sophia is a Legaltech Researcher at OFLS, and an MSc student in Law and Finance (2020) at the University of Oxford"
   ofls:
     name: OFLS
@@ -74,23 +75,25 @@ authors:
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
     twitter: https://twitter.com/oxfordFLS
+    linkedin: company/oxfordfls/
     description: "This article was brought to you by the Oxford Fintech & Legaltech Society"
   alfonso:
     name: Alfonso
     display_name: Alfonso
     avatar: 'assets/images/alfonso.jpg'
-    linkedin: alfonso-delgado-rius-82307483/
+    linkedin: in/alfonso-delgado-rius-82307483/
     description: "Alfonso founded OFLS (formerly FSS) in 2017. He is the Head of Research at Silver 8, and is an alumnus of the Masters in Law and Finance (2017)."
   oscar:
     name: Oscar Borgogno
     display_name: Oscar
     avatar: 'assets/images/oscar.jpg'
-    linkedin: oscar-borgogno-1a089b107/
+    linkedin: in/oscar-borgogno-1a089b107/
     description: "Oscar is a PhD Candidate, Law Department, University of Turin and an alumnus of the Masters in Law and Finance (2019) at the University of Oxford. He is also a Law & Digital Integration Expert at the Bank of Italy."
   external:
     name: External contribution
     display_name: External
     avatar: 'assets/images/logo-cube-small.jpg'
+    linkedin: company/oxfordfls/
 
     
 # Plugins
