@@ -21,8 +21,6 @@ A stumbling market might deter companies from going public in case of hostile ta
 
 Although it seems impossible to create a parallel world without Brexit and see whether UK fintechs would attract even more investment in that scenario, it can be concluded that the economic stress brought by Brexit has been to some extent relieved by the boom in fintech investment.
 
-About the Editor: **Shiyi Huang** is a Masters candidate in Law and Finance at University of Oxford, and is a research member of Oxford Fintech & Legaltech Society. Previously she was a lawyer at Zhong Yin Law Firm in China where she helped design transactional structures and draft legal documents for international M&As. Shiyi is a licensed lawyer in China, and qualified to engage in China's securities and funds market. Her research interests include corporate finance, cross-border investment, banking law and securities. You can contact her at [shiyi.huang@law.ox.ac.uk](mailto:shiyi.huang@law.ox.ac.uk).
-
 Credits: Photo by [Josh Calabrese](https://unsplash.com/@joshcala?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/business?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 [\[1\]](https://ofls.medium.com/fintech-investment-in-the-uk-miracle-or-mystery-2b6c06c551d1#_ftnref1) [http://www.cityam.com/273120/uks-fintech-landscape-reached-record-levels-investment-last](http://www.cityam.com/273120/uks-fintech-landscape-reached-record-levels-investment-last)
