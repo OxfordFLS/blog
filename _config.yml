@@ -1,7 +1,7 @@
 # Site
 name: "OFLS"
 title: "Oxford Fintech & Legaltech Society Blog"
-description: "Welcome to the Oxford Fintech & Legaltech Society Blog" <a href="https://twitter.com/OxfordFLS/" target="_blank"> <i class="fab fa-twitter"></i> </a> 
+description: "Welcome to the Oxford Fintech & Legaltech Society Blog" 
 logo: '/assets/images/logo-cube.jpg'
 favicon: '/assets/images/favicon-16x16.png'
 baseurl: ''
