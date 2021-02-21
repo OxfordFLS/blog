@@ -21,8 +21,3 @@ Euler xyz emerged from Spark University Hackathon in 2020 and recently raised $8
 Michael expressed optimism that despite DeFi experiencing several hacks like the DAO hack in 2016, which saw more than $50 million worth of Ether lost to hackers, things have improved with proper auditing of smart contracts before deployment. Bounties are being offered which will make arresting hackers easier. Furthermore, DeFi insurance has also grown since then, with the entry of players such as Nexus mutual.
 
 Finally, the outlook for DeFi looks promising with the prospect of Automated Market Makers competing with traditional market makers, the growth of synthetic assets, and the explosion of financial products which will increase volumes and drive up the total valued locked. In future, those investing in Euler will receive shares in tokens, participate in the decentralised network, and gain revenue on the protocol.
-
-#### About the Author:
-
-Melvin Obadha is a Fintech Researcher at OFLS, and a DPhil candidate in Health Economics (2022) at the University of Oxford.
-
