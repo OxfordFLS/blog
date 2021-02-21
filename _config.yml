@@ -17,7 +17,7 @@ authors:
   selina:
     name: Selina
     display_name: Selina
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/selina.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -26,7 +26,7 @@ authors:
   dom:
     name: Domenico
     display_name: Domenico
-    avatar: 'assets/images/dom.jpeg'
+    avatar: 'assets/images/dom.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://www.linkedin.com/in/domenico-piers-de-martino-753410148/
@@ -44,7 +44,7 @@ authors:
   melvin:
     name: Melvin
     display_name: Melvin  
-    avatar: 'assets/images/melvin.jpeg'
+    avatar: 'assets/images/melvin.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -53,7 +53,7 @@ authors:
   sampada:
     name: Sampada 
     display_name: Sampada  
-    avatar: 'assets/images/sampada.jpeg'
+    avatar: 'assets/images/sampada.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
@@ -116,7 +116,7 @@ authors:
   oscar:
     name: Oscar Borgogno
     display_name: Oscar
-    avatar: 'assets/images/alfonso.jpg'
+    avatar: 'assets/images/oscar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: contact@oxfordfls.org
     web: https://oxfordfls.org
