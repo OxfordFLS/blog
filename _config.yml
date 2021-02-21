@@ -30,14 +30,12 @@ authors:
     display_name: Daniel
     avatar: 'assets/images/daniel.jpg'
     linkedin: daniel-goode-215258132/
-    twitter: https://twitter.com/oxfordFLS
     description: "Daniel is an Associate Editor at OFLS, and a MSc candidate in Law and Finance (2021) at the University of Oxford"
   melvin:
     name: Melvin
     display_name: Melvin  
     avatar: 'assets/images/melvin.jpg'
-    web: https://www.linkedin.com/in/melvinobadha/
-    twitter: https://twitter.com/oxfordFLS
+    linkedin: melvinobadha/
     description: "Melvin is a Fintech Researcher at OFLS, and a DPhil candidate in Health Economics (2022) at the University of Oxford."
   sampada:
     name: Sampada 
