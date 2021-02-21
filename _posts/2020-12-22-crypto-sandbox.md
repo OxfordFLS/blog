@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Regulatory Sandbox: The Path for Cryptocurrency in Emerging Economies?"
-author: ofls
+author: external
 categories: [crypto]
 image: assets/images/crypto.jpeg
 featured: false
