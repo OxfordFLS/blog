@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OFLS Hosts Social Dilemma Panel Discussion"
-author: ofls
+author: sampada
 categories: [ event report, ethics ]
 image: assets/images/sd.jpeg
 ---
@@ -20,7 +20,3 @@ The startling reality of the data economy provokes calls for the end of mass dat
 Brent admits that we are likely beyond a stage where we can stop data collection in full. However, he highlights the potential offered by partial solutions, such as banning the trade of audience data, and notes the European GDPR as being a step in the right direction. Silvia strongly pushes for lowering the bar for civic engagement as a way of reaching better regulation of the field of AI and data ethics.
 
 The complexity underlying the issues discussed left much for the audience to ponder. Indeed, as these issues continue to crystallise within the public’s attention we are likely to see growing engagement and questioning of social media’s place within society.
-
-About the Author:
-
-Sampada Venkatesh is a Legal Researcher at OFLS, and a BA student in Law (2022), University of Oxford.
