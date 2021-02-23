@@ -3,7 +3,7 @@ layout: post
 title:  "The Premise and Promise of LegalTech"
 author: Dimitrios
 categories: 
-image: assets/image/lawtech.jpg
+image: assets/images/lawtech.jpg
 ---
 The excitement surrounding LegalTech is palpable. In fact, it is reaching such levels, both in terms of [investment](https://www.legalcheek.com/2019/10/uk-lawtech-investment-rockets-from-2-5-million-to-62-million-in-just-three-years/#:~:text=Virtual%20Vac%20Scheme-,UK%20lawtech%20investment%20rockets%20from%20%C2%A32.5%20million%20to,million%20in%20just%20three%) and academic [interest](https://www.law.ox.ac.uk/sites/files/oxlaw/oxford_lawtech_adoption_and_training_survey_report_18_march_2.pdf), that its introduction into our everyday lexicon appears imminent. In this short piece, I endeavour to revisit the fundamentals of LegalTech, by briefly discussing the premises on which its development rests, and the promise it holds for the future. It is argued that this is a useful exercise because it delineates the true scope of LegalTech, both technologically and teleologically. It is, moreover, asserted that this is an exercise that needs to be undertaken rigorously and frequently, since LegalTech is still in its infancy and tectonic shifts are underway. 
 
