@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Event Report — Robot Directors and Directors’ and Officers’ Liability ‘Insurance’: Adapt or Die"
-author: ofls
+author: daniel
 categories: [ AI ]
 image: assets/images/robot.jpeg
 ---
