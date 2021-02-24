@@ -29,10 +29,6 @@ Emerging economies appear reluctant to embrace cryptocurrency due to the risks t
 
 This would not only generate greater inward investment, but development might also be enhanced through the promotion of greater innovation in the market. Additionally, sandboxes provide regulators with ample time to understand the system, find and cure its loopholes, discover new avenues for growth, make the required changes in regulations to suit the new environment, and promote the working of new products. The aim should be to utilise fintech to boost economic growth in these countries. This would also facilitate greater financial inclusion, improve competitiveness, and consequently, accelerate the development of domestic financial institutions.
 
-### About the Author
-
-Ashika Jain is a 3rd year student at the WB National University of Juridical Sciences, India. She is a Senior Associate Member of the NUJS Law Review and has a keen interest in matters of finance and company law. She represented NUJS as a speaker at the 27th Willem C. Vis International Commercial Arbitration Moot, 2020 where they were adjudged the winners and awarded the Eric E. Bergsten award for the Best Team Orals. She was also adjudged the Best Oralist at the 12th NLS-Trilegal International Arbitration Moot, 2019.
-
 ### Footnotes
 
 [1] Gabrielle Chasin Velkes, ‘International Anti-Money Laundering Regulation of Virtual Currencies and Assets’ (2020) 52 New York University Journal of International Law & Politics 875–905.
