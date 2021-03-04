@@ -3,7 +3,7 @@ layout: post
 title:  "AI in Law: Presentation with Luminance"
 author: sampada
 categories: [ event report ]
-image: assets/images/Luminance.jpg
+image: assets/images/Luminance.jpg align="center" 
 ---
 OFLS recently held the final workshop event of its Legaltech 101 Series which provided practical insights into the growing role played by artificial intelligence (AI) in law. The event, held in collaboration with the Oxford Law Society, featured an interactive session with Zara Ryan, a legal product expert at Luminance.  
 
