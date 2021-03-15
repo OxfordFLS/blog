@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "‘Digital Revolution' and Democracy: The European Democracy Action Plan"
+title:  "The ‘Digital Revolution' and Democracy: The European Democracy Action Plan"
 author: dom
 categories: 
 image: assets/images/tech and democracy.jpg
