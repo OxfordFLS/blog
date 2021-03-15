@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "‘Digital Revolution' and Democracy: The European Democracy Action Plan"
-author: Domenico
+author: dom
 categories: 
 image: assets/images/tech and democracy.jpg
 ---
