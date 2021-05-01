@@ -63,9 +63,9 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [2] Nicholas Confessore, ‘Cambridge Analytica and Facebook: The Scandal and the Fallout So Far’ The New York Times (4 April 2018) <https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html> accessed 9 March 2021.
 
-[3] Tom Bingham, The Rule of Law (Penguin, 2010).
+[3] Tom Bingham, *The Rule of Law* (Penguin, 2010).
 
-[4] Frank Pasquale, The Black Box Society: The Secret Algorithms that Control Money and Information (Harvard University Press, 2015) 3-4.
+[4] Frank Pasquale, *The Black Box Society: The Secret Algorithms that Control Money and Information* (Harvard University Press, 2015) 3-4.
 
 [5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) <http://perma.cc/JA53-8AL8> accessed 6 February 2021.
 
@@ -79,15 +79,15 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [10] Rachel Metz, ‘Microsoft’s Neo-Nazi Sexbot was a Great Lesson for Makers of AI Assistants’ (MIT Technology Review, 2018) <http://perma.cc/D3DH-CLEM> accessed 31 January 2021.
 
-[11] Immanuel Kant, The Metaphysics of Morals (Cambridge University Press, 1996) 223.
+[11] Immanuel Kant, *The Metaphysics of Morals* (Cambridge University Press, 1996) 223.
 
 [12] John Locke, ‘Of Identity and Diversity’ in An Essay Concerning Human Understanding (Project Gutenberg) <http://www.gutenberg.org/cache/epub/10615/pg10615.html> accessed 6 February 2021.
 
-[13] European Parliament, Report with Recommendation to the Commission on Civil Law Rules on Robotics (2015/2103(INL), 27 January 2017) <https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?redirect> accessed 6 February 2021.
+[13] European Parliament, *Report with Recommendation to the Commission on Civil Law Rules on Robotics* (2015/2103(INL), 27 January 2017) <https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?redirect> accessed 6 February 2021.
 
 [14] Luciano Floridi and Mariarosaria Taddeo, ‘Don’t Grant Robots Legal Personhood’ (2018) 557 Nature 309 <https://media.nature.com/original/magazine-assets/d41586-018-05154-5/d41586-018-05154-5.pdf> accessed 17 April 2021.
 
-[15] Nick Bostrom, Superintelligence:Paths, Dangers, Strategies (Oxford University Press, 2016) 19-20.
+[15] Nick Bostrom, *Superintelligence:Paths, Dangers, Strategies* (Oxford University Press, 2016) 19-20.
 
 [16] ibid
 
@@ -113,19 +113,19 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [27] Zak Doffman (n 31).
 
-[28] Olivia Shen, ‘AI Dreams and Authoritarian Nightmares’ in Golley, Jaivin, and Hillman, China Dreams (ANUE Press, 2020) 144 – 145. 
+[28] Olivia Shen, ‘AI Dreams and Authoritarian Nightmares’ in Golley, Jaivin, and Hillman, *China Dreams* (ANUE Press, 2020) 144 – 145. 
 
 [29] Edward Santow, ‘Can Artifical Intelligence be trusted with our Human Rights?’ (2020) 91(4) Australian Quarterly 10, 13.
 
-[30] Richard Susskind, Online Courts and the Future of Justice (Oxford University Press, 2019).
+[30] Richard Susskind, *Online Courts and the Future of Justice* (Oxford University Press, 2019).
 
-[31] Douglas Hurd, The Search for Peace (Warner Books, 1997) 6.
+[31] Douglas Hurd, *The Search for Peace* (Warner Books, 1997) 6.
 
 [32] European Commision, Proposal for a Regulation Laying Down harmonized Rules on AI (2021/0106(COD), 21 April 2021) <https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence> accessed  28 April 2021.
 
 [33] Huntington Cairns, ‘Spinoza’s Theory of Law’ (1948) 48(7) Columbia Law Review 1032.
 
-[34] Cathy O’Neil, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy (Crown Publishers, 2016).
+[34] Cathy O’Neil, *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy* (Crown Publishers, 2016).
 
   
 
