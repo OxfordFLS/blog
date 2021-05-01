@@ -59,17 +59,17 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 **Footnotes**
 
-[1] Rashida Richardson, Jason Schultz, Kate Crawford, ‘Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice’ (2019) 94 New York University Law Review 192 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423> accessed 6 February 2021.
+[1] Rashida Richardson, Jason Schultz, Kate Crawford, ‘Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice’ (2019) 94 New York University Law Review 192 < <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423> > accessed 6 February 2021.
 
-[2] Nicholas Confessore, ‘Cambridge Analytica and Facebook: The Scandal and the Fallout So Far’ The New York Times (4 April 2018) <https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html> accessed 9 March 2021.
+[2] Nicholas Confessore, ‘Cambridge Analytica and Facebook: The Scandal and the Fallout So Far’ The New York Times (4 April 2018) < <https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html> > accessed 9 March 2021.
 
 [3] Tom Bingham, *The Rule of Law* (Penguin, 2010).
 
 [4] Frank Pasquale, *The Black Box Society: The Secret Algorithms that Control Money and Information* (Harvard University Press, 2015) 3-4.
 
-[5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) < http://perma.cc/JA53-8AL8 > accessed 6 February 2021.
+[5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) < <http://perma.cc/JA53-8AL8> > accessed 6 February 2021.
 
-[6] Michael Laris, ‘Tempe Police Release Video of Moments before Autonomous Uber Hit Pedestrian’ (Washington Post Online, 21 March 2018) <http://www.washingtonpost.com/> accessed 6 January 2021.
+[6] Michael Laris, ‘Tempe Police Release Video of Moments before Autonomous Uber Hit Pedestrian’ (Washington Post Online, 21 March 2018) < <http://www.washingtonpost.com/> > accessed 6 January 2021.
 
 [7] Mark A. Lemley and Bryan Casey, ‘Remedies for Robots’ (2019) 86(5) The University of Chicago Law Review 1311, 1332.
 
@@ -77,25 +77,25 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [9] Rebecca Wexler, ‘Life, Liberty, and Trade Secrets: Intellectual Property in the Criminal Justice System’ (2018) 70 Stanford Law Review 1343, 1349-50.
 
-[10] Rachel Metz, ‘Microsoft’s Neo-Nazi Sexbot was a Great Lesson for Makers of AI Assistants’ (MIT Technology Review, 2018) <http://perma.cc/D3DH-CLEM> accessed 31 January 2021.
+[10] Rachel Metz, ‘Microsoft’s Neo-Nazi Sexbot was a Great Lesson for Makers of AI Assistants’ (MIT Technology Review, 2018) < <http://perma.cc/D3DH-CLEM> > accessed 31 January 2021.
 
 [11] Immanuel Kant, *The Metaphysics of Morals* (Cambridge University Press, 1996) 223.
 
 [12] John Locke, ‘Of Identity and Diversity’ in An Essay Concerning Human Understanding (Project Gutenberg) <http://www.gutenberg.org/cache/epub/10615/pg10615.html> accessed 6 February 2021.
 
-[13] European Parliament, *Report with Recommendation to the Commission on Civil Law Rules on Robotics* (2015/2103(INL), 27 January 2017) <https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?redirect> accessed 6 February 2021.
+[13] European Parliament, *Report with Recommendation to the Commission on Civil Law Rules on Robotics* (2015/2103(INL), 27 January 2017) < <https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?redirect> > accessed 6 February 2021.
 
-[14] Luciano Floridi and Mariarosaria Taddeo, ‘Don’t Grant Robots Legal Personhood’ (2018) 557 Nature 309 <https://media.nature.com/original/magazine-assets/d41586-018-05154-5/d41586-018-05154-5.pdf> accessed 17 April 2021.
+[14] Luciano Floridi and Mariarosaria Taddeo, ‘Don’t Grant Robots Legal Personhood’ (2018) 557 Nature 309 < <https://media.nature.com/original/magazine-assets/d41586-018-05154-5/d41586-018-05154-5.pdf> > accessed 17 April 2021.
 
 [15] Nick Bostrom, *Superintelligence:Paths, Dangers, Strategies* (Oxford University Press, 2016) 19-20.
 
 [16] ibid
 
-[17] Tim Urban, ‘The AI Revolution: Our Immortality or Extinction’ (Wait but Why, 27 January 2015) <https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html> accessed 6 February 2021.
+[17] Tim Urban, ‘The AI Revolution: Our Immortality or Extinction’ (Wait but Why, 27 January 2015) < <https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html> > accessed 6 February 2021.
 
 [18] Luke Muehlhauser and Nick Bostrom, ‘Why We Need Friendly AI’, (2014) 13(36) Think 41, 43 <http://journals.cambridge.org/abstract_S1477175613000316> accessed 5 February 2021.
 
-[19] The European Commission's High-Level Expert Group on Artificial Intelligence, ‘Draft Ethics Guidelines for Trustworthy AI’ (18 December 2018) <http://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai> accessed 2 February 2021
+[19] The European Commission's High-Level Expert Group on Artificial Intelligence, ‘Draft Ethics Guidelines for Trustworthy AI’ (18 December 2018) < <http://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai> > accessed 2 February 2021
 
 [20] Bingham (n 3).
 
@@ -103,13 +103,13 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [22] Ashley Deeks, ‘The Judicial Demand for Explainable Artifical Intelligence’ (2019) 119(7) Columbia Law Review 1829, 1841.
 
-[23] Laurel Eckhouse, ‘Big Data May Be Reinforcing Racial Bias in the Criminal Justice System’ (The Washington Post, 10 February 2017) <https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racial-bias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973-c5efb7ccfb0d_story.htm> accessed 9 March 2021.
+[23] Laurel Eckhouse, ‘Big Data May Be Reinforcing Racial Bias in the Criminal Justice System’ (The Washington Post, 10 February 2017) < <https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racial-bias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973-c5efb7ccfb0d_story.htm> > accessed 9 March 2021.
 
-[24] Karen Hao, ‘Police across the US are Training Crime-Predicting AIs on Falsified Data’ (MIT Technology Review, 2019) <https://www.technologyreview.com/2019/02/13/137444/predictive-policing-algorithms-ai-crime-dirty-data/> accessed 6 February 2021.
+[24] Karen Hao, ‘Police across the US are Training Crime-Predicting AIs on Falsified Data’ (MIT Technology Review, 2019) < <https://www.technologyreview.com/2019/02/13/137444/predictive-policing-algorithms-ai-crime-dirty-data/> > accessed 6 February 2021.
 
-[25] Zak Doffman, ‘1.5m Users Hit by New Facebook Privacy Breach as Extent of Data Misuse Exposed’ (Forbes Online, 18 April 2019) <https://www.forbes.com/sites/zakdoffman/2019/04/18/facebook-illegally-harvested-data-from-1-5m-users-as-it-leveraged-its-data-machine/?sh=74b55ea6a2e6> accessed 6 February 2021.
+[25] Zak Doffman, ‘1.5m Users Hit by New Facebook Privacy Breach as Extent of Data Misuse Exposed’ (Forbes Online, 18 April 2019) < <https://www.forbes.com/sites/zakdoffman/2019/04/18/facebook-illegally-harvested-data-from-1-5m-users-as-it-leveraged-its-data-machine/?sh=74b55ea6a2e6> > accessed 6 February 2021.
 
-[26] Paul Bischoff, ‘Report: 267 Million Facebook Users IDs and Phone Numbers Exposed Online’ (Comparitech, 9 March 2020) <https://www.comparitech.com/blog/information-security/267-million-phone-numbers-exposed-online/> accessed on 9 March 2021.
+[26] Paul Bischoff, ‘Report: 267 Million Facebook Users IDs and Phone Numbers Exposed Online’ (Comparitech, 9 March 2020) < <https://www.comparitech.com/blog/information-security/267-million-phone-numbers-exposed-online/> > accessed on 9 March 2021.
 
 [27] Zak Doffman (n 31).
 
@@ -121,7 +121,7 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [31] Douglas Hurd, *The Search for Peace* (Warner Books, 1997) 6.
 
-[32] European Commision, Proposal for a Regulation Laying Down harmonized Rules on AI (2021/0106(COD), 21 April 2021) <https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence> accessed  28 April 2021.
+[32] European Commision, Proposal for a Regulation Laying Down harmonized Rules on AI (2021/0106(COD), 21 April 2021) < <https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence> > accessed  28 April 2021.
 
 [33] Huntington Cairns, ‘Spinoza’s Theory of Law’ (1948) 48(7) Columbia Law Review 1032.
 
