@@ -5,10 +5,10 @@ author: Rani Subassandran
 categories: 
 image: 
 ---
-##**I.	Introduction**
+## **I.	Introduction**
 Artificial intelligence (AI) systems have been embedded into our lives in the form of smart home products, e-payment systems, and more. However, our interaction with AI systems pose serious challenges, from police departments using ‘dirty data’ to train predictive policing systems<sup>1</sup> to the Cambridge Analytica and Facebook scandal that allegedly influenced the 2016 US Presidential Election.<sup>2</sup> This post explores the difficulties faced in regulating liability arising from the use of AI systems. Section II examines the issue of whom to blame when a robot errs, and section III discusses the desirability of Lord Bingham’s rule of law principles<sup>3</sup> forming the backbone of the regulation of AI systems. 
 
-##**II.	Assessing Liability for AI Systems**
+## **II.	Assessing Liability for AI Systems**
 When asked who should be liable when a robot errs, one’s natural thought may be the creators of the robot itself. Undeniably, this is true in cases where there is a software bug, a hardware malfunction, or the creators of the robot have coded insufficient safety standards and protocols. In these cases, the chain of causation between the negligent, or mala fide, programming of the AI system and the consequent harm is easily established.  
 
 However, the question of liability is not as straightforward when it comes to most AI systems used every day. Today’s robots are no longer merely executing pre-programmed instructions, but rather are programmed to learn from the data they collect. They are fully capable of forming their own solutions based on their analyses of the patterns in that data – a process that is currently beyond human discernment. These robots, become ‘black boxes’,<sup>4</sup> even to their creators. 
@@ -19,7 +19,7 @@ The complexity surrounding liability of AI harms is highlighted in several cases
   
 2. When liability arises in public-private partnerships. For example, a case in Arkansas saw hundreds suffer a drastic reduction in their free care hours due to an AI system being programmed to prioritise cost-saving measures. Legal claims were issued against the government agency instead of against the private developer that was primarily liable for the harm caused.<sup>8</sup> Furthermore, on these instances, courts struggle to hold private vendors accountable due to trade secret exceptions.<sup>9</sup> 
 
-3. When the AI harms are neither negligent nor criminal, such as when Microsoft’s           chatbot, Tay, programmed to update itself in real-time by learning from users’               interactions, began to tweet hate speech following interactions with trolls on Twitter.<sup>10</sup>  
+3. When the AI harms are neither negligent nor criminal, such as when Microsoft’s chatbot, Tay, programmed to update itself in real-time by learning from users’ interactions, began to tweet hate speech following interactions with trolls on Twitter.<sup>10</sup>  
 
 While the doctrine of contributory negligence could be modified and broadly adopted to resolve the issue of mixed liability, one aspect of the legal philosophy underpinning the law of remedies, i.e. that the wrongdoer be punished, would be lost where the wrongdoer is a robot. As robots are incapable of being conscious of their wrongdoing, could they be granted legal personhood? 
 
