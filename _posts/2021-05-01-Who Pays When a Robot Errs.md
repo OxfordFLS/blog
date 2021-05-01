@@ -5,10 +5,10 @@ author: Rani Subassandran
 categories: 
 image: assets/images/AI.jpeg
 ---
-#### **I.	Introduction**
+##### **I.	Introduction**
 Artificial intelligence (AI) systems have been embedded into our lives in the form of smart home products, e-payment systems, and more. However, our interaction with AI systems pose serious challenges, from police departments using ‘dirty data’ to train predictive policing systems<sup>1</sup> to the Cambridge Analytica scandal that allegedly influenced the 2016 US Presidential Election.<sup>2</sup> This post explores the difficulties faced in regulating liability arising from the use of AI systems. Section II examines the issue of whom to blame when a robot errs, and section III discusses the desirability of Lord Bingham’s rule of law principles<sup>3</sup> forming the backbone of the regulation of AI systems. 
 
-#### **II.	Assessing Liability for AI Systems**
+##### **II.	Assessing Liability for AI Systems**
 When asked who should be liable when a robot errs, one’s natural thought may be the creators of the robot itself. Undeniably, this is true in cases where there is a software bug, a hardware malfunction, or the creators of the robot have coded insufficient safety standards and protocols. In these cases, the chain of causation between the negligent, or *mala fide*, programming of the AI system and the consequent harm is easily established.  
 
 However, the question of liability is not as straightforward when it comes to most AI systems used everyday. Today’s robots are no longer merely executing pre-programmed instructions, but rather are programmed to learn from the data they collect. They are fully capable of forming their own solutions based on their analyses of patterns within that data – a process that is currently beyond human discernment. These robots, become ‘black boxes’,<sup>4</sup> even to their creators. 
@@ -29,7 +29,7 @@ In a 2017 resolution, the European Parliament urged the European Commission to p
 
 This section has highlighted the complexity of attributing liability for AI harms. The next section explores the importance of ensuring that the design, development, training, and use of AI systems is based on adequate rule of law principles as a necessary mechanism to address the highlighted issues surrounding liability for AI harms.
 
-#### **III – Rule of Law and AI Harms**
+##### **III – Rule of Law and AI Harms**
 According to Professor Bostrom, the very existence of humanity will be at stake once we enter the age of AI revolution. Until now, we have only successfully designed, created, and used AI for designated tasks, e.g. a chess-playing robot cannot also act as a chatbot. However, we are currently on the cusp of creating human-level machine intelligence.<sup>15</sup> Thereafter, it is envisaged that we will have zero control in the race towards artificial super intelligence (ASI), i.e. an AI that will far surpass the very best form of human intelligence.<sup>16</sup>  
 
 Whilst it is easy to enter into the mindset of anthropomorphizing robots, it is important to remember that robots are not capable of understanding the concept of evil. As Urban explains, an AI can be unfriendly if it were specifically programmed that way, i.e. an AI system is motivated by ‘whatever we programmed its motivation to be’.<sup>17</sup> This, however, is challenging for the following reasons: (i) even programming a simple message is a complicated process, (ii) there is the issue of AI ‘black boxes’, and (iii) since humanity is flawed and could always improve, we shall have to find a way to program the ability for humanity to continue evolving. 
@@ -52,7 +52,7 @@ It is clear from the above discussion that access to fair, inexpensive, and time
 
 Lord Bingham’s final principle requires compliance by the state with its obligations in international law, as in national law. The most pressing reason for compliance by states with international law is the sheer necessity of their doing so, since states, alone, cannot adequately provide for the needs of their citizens.<sup>31</sup> In the important journey towards trustworthy ASI, the principles of the rule of law must form a clear set of international laws with mandatory application to all nations and parties involved in the development and use of AI. The recent European Commission’s proposal to lay down harmonised rules on AI and amending certain EU legislations to that effect is certainly a much welcome step in this direction.<sup>32</sup> 
 
-#### **IV. Conclusion**
+##### **IV. Conclusion**
 There are significant challenges in regulating liability arising from AI harms, especially due to complications such as human-in-the-loop situations, AI ‘black-boxes’, and the inherent limitations of AI systems that preclude them from being assigned legal personhood. Despite these challenges, the promise of AI to create and promote colossal universal good is also significant, as is the frightening prospect of inadvertently creating an unfriendly ASI. 
 
 It is asserted that a good starting point towards the regulation of trustworthy AI systems is Lord Bingham’s principles of the rule of law. These principles should form the backbone of the greater efforts to create a comprehensive suite of international laws with mandatory application to all, underpinning our effort to develop trustworthy AI systems. The 17th century philosopher Baruch Spinoza stated that the law is the mathematics of freedom<sup>33</sup> - in the fight against the ‘weapons of math destruction’<sup>34</sup> the only ammunition we have in our arsenal is the rule of law.
