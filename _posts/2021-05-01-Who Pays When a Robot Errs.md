@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Who Pays When a Robot Errs?"
-author: Rani
+author: Rani Subassandran
 categories: 
 image: 
 ---
