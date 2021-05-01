@@ -81,7 +81,7 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [11] Immanuel Kant, *The Metaphysics of Morals* (Cambridge University Press, 1996) 223.
 
-[12] John Locke, ‘Of Identity and Diversity’ in An Essay Concerning Human Understanding (Project Gutenberg) <http://www.gutenberg.org/cache/epub/10615/pg10615.html> accessed 6 February 2021.
+[12] John Locke, ‘Of Identity and Diversity’ in An Essay Concerning Human Understanding (Project Gutenberg) < <http://www.gutenberg.org/cache/epub/10615/pg10615.html> > accessed 6 February 2021.
 
 [13] European Parliament, *Report with Recommendation to the Commission on Civil Law Rules on Robotics* (2015/2103(INL), 27 January 2017) < <https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?redirect> > accessed 6 February 2021.
 
@@ -89,17 +89,17 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [15] Nick Bostrom, *Superintelligence:Paths, Dangers, Strategies* (Oxford University Press, 2016) 19-20.
 
-[16] ibid
+[16] ibid.
 
 [17] Tim Urban, ‘The AI Revolution: Our Immortality or Extinction’ (Wait but Why, 27 January 2015) < <https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html> > accessed 6 February 2021.
 
 [18] Luke Muehlhauser and Nick Bostrom, ‘Why We Need Friendly AI’, (2014) 13(36) Think 41, 43 <http://journals.cambridge.org/abstract_S1477175613000316> accessed 5 February 2021.
 
-[19] The European Commission's High-Level Expert Group on Artificial Intelligence, ‘Draft Ethics Guidelines for Trustworthy AI’ (18 December 2018) < <http://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai> > accessed 2 February 2021
+[19] The European Commission's High-Level Expert Group on Artificial Intelligence, ‘Draft Ethics Guidelines for Trustworthy AI’ (18 December 2018) < <http://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai> > accessed 2 February 2021.
 
 [20] Bingham (n 3).
 
-[21] Sandra Wachter, Brent Mittelstadt & Chris Russell, ‘Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR’ (2018) 31 Harv. J.L. & Tech. 841, 850 
+[21] Sandra Wachter, Brent Mittelstadt & Chris Russell, ‘Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR’ (2018) 31 Harv. J.L. & Tech. 841, 850. 
 
 [22] Ashley Deeks, ‘The Judicial Demand for Explainable Artifical Intelligence’ (2019) 119(7) Columbia Law Review 1829, 1841.
 
