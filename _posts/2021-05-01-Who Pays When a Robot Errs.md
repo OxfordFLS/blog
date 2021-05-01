@@ -5,10 +5,10 @@ author: Rani Subassandran
 categories: 
 image: 
 ---
-### **I.	Introduction**
+#### **I.	Introduction**
 Artificial intelligence (AI) systems have been embedded into our lives in the form of smart home products, e-payment systems, and more. However, our interaction with AI systems pose serious challenges, from police departments using ‘dirty data’ to train predictive policing systems<sup>1</sup> to the Cambridge Analytica and Facebook scandal that allegedly influenced the 2016 US Presidential Election.<sup>2</sup> This post explores the difficulties faced in regulating liability arising from the use of AI systems. Section II examines the issue of whom to blame when a robot errs, and section III discusses the desirability of Lord Bingham’s rule of law principles<sup>3</sup> forming the backbone of the regulation of AI systems. 
 
-### **II.	Assessing Liability for AI Systems**
+#### **II.	Assessing Liability for AI Systems**
 When asked who should be liable when a robot errs, one’s natural thought may be the creators of the robot itself. Undeniably, this is true in cases where there is a software bug, a hardware malfunction, or the creators of the robot have coded insufficient safety standards and protocols. In these cases, the chain of causation between the negligent, or mala fide, programming of the AI system and the consequent harm is easily established.  
 
 However, the question of liability is not as straightforward when it comes to most AI systems used every day. Today’s robots are no longer merely executing pre-programmed instructions, but rather are programmed to learn from the data they collect. They are fully capable of forming their own solutions based on their analyses of the patterns in that data – a process that is currently beyond human discernment. These robots, become ‘black boxes’,<sup>4</sup> even to their creators. 
@@ -29,7 +29,7 @@ In a 2017 resolution, the European Parliament urged the European Commission to p
 
 This section has highlighted the complexity of attributing liability for AI harms. The next section explores the importance of ensuring design, development, training and use of all AI is based on adequate rule of law principles as a necessary mechanism to address issues surrounding liability for AI harms.
 
-### **III – Rule of Law and AI Harms**
+#### **III – Rule of Law and AI Harms**
 According to Professor Bostrom, the very existence of humanity will be at stake once we enter the age of AI revolution. Until now, we have only successfully designed, created and used AI for designated tasks, e.g. a chess-playing robot cannot also act as a chatbot. However, we are currently on the cusp of creating human-level machine intelligence.<sup>15</sup> Thereafter, it is envisaged that we will have zero control in the race towards artificial super intelligence (ASI), i.e. an AI that will far surpass the very best form of human intelligence.<sup>16</sup>  
 
 Whilst it is easy to enter into the mindset of anthropomorphizing robots, it is important to remember that robots are not capable of understanding the concept of evil. As Urban explains, an AI can be unfriendly if it were specifically programmed that way, i.e. an AI system is motivated by ‘whatever we programmed its motivation to be’.<sup>17</sup> This, however, is challenging for the following reasons: (i) even programming a simple message is a complicated process, (ii) there is the issue of AI ‘black boxes’, and (iii) since humanity is flawed and could always improve, we shall have to find a way to program an ability for humanity to continue evolving. 
@@ -52,22 +52,22 @@ It is clear from the above discussion that access to fair, inexpensive and timel
 
 Lord Bingham’s final principle requires compliance by the state with its obligations in international law, as in national law. The most pressing reason for compliance by states with international law is the sheer necessity of their doing so, since states are incompetent and, alone, cannot adequately provide for the needs of their citizens.<sup>31</sup> In the important journey towards trustworthy ASI, the principles of the rule of law must form a clear set of international laws with mandatory application to all nations and parties involved in the development and use of AI. The recent European Commission’s proposal to lay down harmonised rules on AI and amending certain EU legislations to that effect is certainly a much welcome step in this direction.<sup>32</sup> 
 
-### **IV. Conclusion**
+#### **IV. Conclusion**
 There are significant challenges in regulating liability arising from AI harms, especially due to complications such as human-in-the-loop situations, AI ‘black-boxes’, and the inherent limitations of AI systems that preclude them from being assigned legal personhood. Despite these challenges, the promise of AI to create and promote colossal universal good is also significant, as is the frightening prospect of inadvertently creating an unfriendly ASI. 
 
 It is asserted that a good starting point towards the regulation of trustworthy AI systems is Lord Bingham’s principles of the rule of law. These principles should form the backbone of the greater effort to create a comprehensive suite of international laws with mandatory application to all, underpinning our effort to develop trustworthy AI systems. The 17th century philosopher Baruch Spinoza stated that the law is the mathematics of freedom<sup>33</sup> - in the fight against the ‘weapons of math destruction’<sup>34</sup> the only ammunition we have in our arsenal is the rule of law.
 
 **Footnotes**
 
-[1] Rashida Richardson, Jason Schultz, Kate Crawford, ‘Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice’ (2019) 94 New York University Law Review 192 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423 > accessed 6 February 2021.
+[1] Rashida Richardson, Jason Schultz, Kate Crawford, ‘Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice’ (2019) 94 New York University Law Review 192 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423> accessed 6 February 2021.
 
-[2] Nicholas Confessore, ‘Cambridge Analytica and Facebook: The Scandal and the Fallout So Far’ The New York Times (4 April 2018 <https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html > accessed 9 March 2021.
+[2] Nicholas Confessore, ‘Cambridge Analytica and Facebook: The Scandal and the Fallout So Far’ The New York Times (4 April 2018) <https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html> accessed 9 March 2021.
 
 [3] Tom Bingham, The Rule of Law (Penguin, 2010).
 
 [4] Frank Pasquale, The Black Box Society: The Secret Algorithms that Control Money and Information (Harvard University Press, 2015) 3-4.
 
-[5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) <http://perma.cc/JA53-8AL8 > accessed 6 February 2021.
+[5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) <http://perma.cc/JA53-8AL8> accessed 6 February 2021.
 
 [6] Michael Laris, ‘Tempe Police Release Video of Moments before Autonomous Uber Hit Pedestrian’ (Washington Post Online, 21 March 2018) <http://www.washingtonpost.com/> accessed 6 January 2021.
 
@@ -77,15 +77,15 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [9] Rebecca Wexler, ‘Life, Liberty, and Trade Secrets: Intellectual Property in the Criminal Justice System’ (2018) 70 Stanford Law Review 1343, 1349-50.
 
-[10] Rachel Metz, ‘Microsoft’s Neo-Nazi Sexbot was a Great Lesson for Makers of AI Assistants’ (MIT Technology Review, 2018) <http://perma.cc/D3DH-CLEM > accessed 31 January 2021.
+[10] Rachel Metz, ‘Microsoft’s Neo-Nazi Sexbot was a Great Lesson for Makers of AI Assistants’ (MIT Technology Review, 2018) <http://perma.cc/D3DH-CLEM> accessed 31 January 2021.
 
 [11] Immanuel Kant, The Metaphysics of Morals (Cambridge University Press, 1996) 223.
 
-[12] John Locke, ‘Of Identity and Diversity’ in An Essay Concerning Human Understanding (Project Gutenberg) <http://www.gutenberg.org/cache/epub/10615/pg10615.html > accessed 6 February 2021.
+[12] John Locke, ‘Of Identity and Diversity’ in An Essay Concerning Human Understanding (Project Gutenberg) <http://www.gutenberg.org/cache/epub/10615/pg10615.html> accessed 6 February 2021.
 
 [13] European Parliament, Report with Recommendation to the Commission on Civil Law Rules on Robotics (2015/2103(INL), 27 January 2017) <https://www.europarl.europa.eu/doceo/document/A-8-2017-0005_EN.html?redirect> accessed 6 February 2021.
 
-[14] Luciano Floridi and Mariarosaria Taddeo, ‘Don’t Grant Robots Legal Personhood’ (2018) 557 Nature 309 < https://media.nature.com/original/magazine-assets/d41586-018-05154-5/d41586-018-05154-5.pdf> accessed 17 April 2021.
+[14] Luciano Floridi and Mariarosaria Taddeo, ‘Don’t Grant Robots Legal Personhood’ (2018) 557 Nature 309 <https://media.nature.com/original/magazine-assets/d41586-018-05154-5/d41586-018-05154-5.pdf> accessed 17 April 2021.
 
 [15] Nick Bostrom, Superintelligence:Paths, Dangers, Strategies (Oxford University Press, 2016) 19-20.
 
@@ -95,7 +95,7 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [18] Luke Muehlhauser and Nick Bostrom, ‘Why We Need Friendly AI’, (2014) 13(36) Think 41, 43 <http://journals.cambridge.org/abstract_S1477175613000316> accessed 5 February 2021.
 
-[19] The European Commission's High-Level Expert Group on Artificial Intelligence, ‘Draft Ethics Guidelines for Trustworthy AI’ (18 December 2018) <http://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai > accessed 2 February 2021
+[19] The European Commission's High-Level Expert Group on Artificial Intelligence, ‘Draft Ethics Guidelines for Trustworthy AI’ (18 December 2018) <http://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai> accessed 2 February 2021
 
 [20] Bingham (n 3).
 
@@ -103,7 +103,7 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [22] Ashley Deeks, ‘The Judicial Demand for Explainable Artifical Intelligence’ (2019) 119(7) Columbia Law Review 1829, 1841.
 
-[23] Laurel Eckhouse, ‘Big Data May Be Reinforcing Racial Bias in the Criminal Justice System’ (The Washington Post, 10 February 2017) <https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racial-bias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973-c5efb7ccfb0d_story.htm > accessed 9 March 2021.
+[23] Laurel Eckhouse, ‘Big Data May Be Reinforcing Racial Bias in the Criminal Justice System’ (The Washington Post, 10 February 2017) <https://www.washingtonpost.com/opinions/big-data-may-be-reinforcing-racial-bias-in-the-criminal-justice-system/2017/02/10/d63de518-ee3a-11e6-9973-c5efb7ccfb0d_story.htm> accessed 9 March 2021.
 
 [24] Karen Hao, ‘Police across the US are Training Crime-Predicting AIs on Falsified Data’ (MIT Technology Review, 2019) <https://www.technologyreview.com/2019/02/13/137444/predictive-policing-algorithms-ai-crime-dirty-data/> accessed 6 February 2021.
 
