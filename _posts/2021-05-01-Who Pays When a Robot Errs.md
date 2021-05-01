@@ -2,7 +2,7 @@
 layout: post
 title:  "Who Pays When a Robot Errs?"
 author: Rani Subassandran
-categories: 
+categories: [ legaltech ]
 image: assets/images/AI.jpeg
 ---
 ##### **I.	Introduction**
