@@ -67,7 +67,7 @@ It is asserted that a good starting point towards the regulation of trustworthy 
 
 [4] Frank Pasquale, *The Black Box Society: The Secret Algorithms that Control Money and Information* (Harvard University Press, 2015) 3-4.
 
-[5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) <<http://perma.cc/JA53-8AL8>> accessed 6 February 2021.
+[5] Lorrie Cranor, ‘A Framework for Reasoning about the Human in the Loop’ (UPSEC, 2008) < http://perma.cc/JA53-8AL8 > accessed 6 February 2021.
 
 [6] Michael Laris, ‘Tempe Police Release Video of Moments before Autonomous Uber Hit Pedestrian’ (Washington Post Online, 21 March 2018) <http://www.washingtonpost.com/> accessed 6 January 2021.
 
