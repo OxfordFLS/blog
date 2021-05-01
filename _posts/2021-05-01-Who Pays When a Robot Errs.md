@@ -3,7 +3,7 @@ layout: post
 title:  "Who Pays When a Robot Errs?"
 author: Rani Subassandran
 categories: 
-image: 
+image: assets/images/AI.jpeg
 ---
 #### **I.	Introduction**
 Artificial intelligence (AI) systems have been embedded into our lives in the form of smart home products, e-payment systems, and more. However, our interaction with AI systems pose serious challenges, from police departments using ‘dirty data’ to train predictive policing systems<sup>1</sup> to the Cambridge Analytica scandal that allegedly influenced the 2016 US Presidential Election.<sup>2</sup> This post explores the difficulties faced in regulating liability arising from the use of AI systems. Section II examines the issue of whom to blame when a robot errs, and section III discusses the desirability of Lord Bingham’s rule of law principles<sup>3</sup> forming the backbone of the regulation of AI systems. 
