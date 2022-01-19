@@ -112,6 +112,18 @@ authors:
     avatar: 'assets/images/Rani1.jpg'
     linkedin: in/rani-subassandran-b836241a/
     description: "Rani is an external contributor to OFLS, and is an University of Oxford alumnus of the Bachelor of Civil Law (2011)"
+  Zenon Hadjicostas:
+    name: Zenon Hadjicostas
+    display_name: Zenon Hadjicosts
+    avatar: 
+    linkedin: in/zenonhadjicostas-589264158/
+    description: "Zenon is a Legaltech Researcher at OFLS, and an MSc student in Law and Finance (2022) at the University of Oxford"  
+  Arnav Maru:
+    name: Arnav Maru
+    display_name: Arnav Maru
+    avatar: 
+    linkedin: in/arnavmaru/
+    description: "Arnav is a Legaltech Researcher at OFLS, and an MSc student in Law and Finance (2022) at the University of Oxford"  
     
 # Plugins
 plugins:
