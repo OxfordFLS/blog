@@ -123,7 +123,13 @@ authors:
     display_name: Arnav Maru
     avatar: 'assets/images/Arnav Maru.jpg'
     linkedin: in/arnavmaru/
-    description: "Arnav is a Legaltech Researcher at OFLS, and an MSc student in Law and Finance (2022) at the University of Oxford"  
+    description: "Arnav is a Legaltech Researcher at OFLS, and an MSc student in Law and Finance (2022) at the University of Oxford"
+  Gabriel Araújo Souto:
+    name: Gabriel Araújo Souto
+    display_name: Gabriel Araújo Souto
+    avatar: 'assets/images/Gabriel Araujo Souto - Photo.jpeg'
+    linkedin: in/gasouto/
+    description: "Gabriel is a Council member at the Brazilian Laboratory of Public Policy and Internet (LAPIN) and a Researcher at the Brazilian Chamber of Deputies" 
     
 # Plugins
 plugins:
