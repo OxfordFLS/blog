@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Complex, but Clean: How Financial Technologies Should Be Developed to Promote Ehtical AI Systems" 
+title: "Complex, but Clean: How Financial Technologies Should Be Developed to Promote Ethical Artificial Intelligence Systems" 
 author: Gabriel Araújo Souto
 categories: [ fintech ]
 image: assets/images/Araujo Graph.png
