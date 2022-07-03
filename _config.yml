@@ -124,6 +124,12 @@ authors:
     avatar: 'assets/images/Arnav Maru.jpg'
     linkedin: in/arnavmaru/
     description: "Arnav is a Legaltech Researcher at OFLS, and an MSc student in Law and Finance (2022) at the University of Oxford"
+  Maxwell Smith:
+    name: Maxwell Smith
+    display_name: Maxwell Smith
+    avatar: 'assets/images/Maxwell Smith.jpg'
+    linkedin: in/maxwellsmith/
+    description: "Max is the President of OFLS 2021/2022, and an MSc student in Law and Finance (2022) at the University of Oxford"
   Gabriel Araújo Souto:
     name: Gabriel Araújo Souto
     display_name: Gabriel Araújo Souto
