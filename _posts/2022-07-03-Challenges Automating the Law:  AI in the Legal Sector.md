@@ -3,7 +3,7 @@ layout: post
 title: "Challenges Automating the Law:  AI in the Legal Sector" 
 author: Maxwell Smith
 categories: [ legaltech ]
-image: assets/images/Maxwell Smith.jpg
+image: assets/images/AI-in-SA-legal-space.jpeg
 ---
 ##### **I.	Introduction**
 Many lawyers debate whether technology should augment or outright replace humans in legal tasks. The difficulty with answering that question is that it is not clear what criteria should be used to determine which approach is preferable in a given application. In many cases it may be more cost effective or efficient to automate legal tasks, but doing so creates new issues that exceed the problems they were trying to solve in the first place. Therefore, this article will adopt a holistic cost/benefit analysis of whether legal automation is preferable to augmentation in various applications considering sociological, technical, and economic perspectives.
