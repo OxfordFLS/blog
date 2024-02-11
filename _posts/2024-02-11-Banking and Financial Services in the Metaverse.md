@@ -68,6 +68,7 @@ Finally, user education will be fundamental: it can improve their understanding 
 **Footnotes**
 
 [1] Among others, I. Hupont Torres, et al., Next Generation Virtual Worlds: Societal, Technological, Economic and Policy Challenges for the EU, 2023; Y.K. Dwivedi et al., Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy, International Journal of Information Management, 2022, p. 66 ff.; T. Madiega et al., Metaverse. Opportunities, risks and policy implications, EPRS (European Parliamentary Research Service), PE 733.557, June 2022.
+
 [2] European Commission, Communication ‘An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological transition’, 11.7.2023, COM(2023) 442/final.
 [3] While this definition has the merit of capturing the main elements of the ecosystem, it does not appear sufficiently future-oriented and functional for regulation. An alternative proposal was formulated in F. Di Porto - D. Foà, Defining Virtual Worlds: Main Features and Regulatory Challenges, Issue Paper, CERRE - Centre on Regulation in Europe, July 2023.
 [4] F. Di Porto - D. Foà, Defining virtual worlds, cited, p. 12.
