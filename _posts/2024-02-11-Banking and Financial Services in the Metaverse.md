@@ -37,7 +37,7 @@ Another area of bank operations in the metaverse that raises relevant legal issu
 
 However, the most distinctive area of the metaverse banking is that of direct interaction between the bank employees and the customer within a phygital environment (where physical and digital experience are merged). In this context, the immersivity enabled by AR/VR technologies allows for the provision of a personalised experience that is more responsive to the user’s needs, but at the same time poses the problem of exploiting the user’s vulnerabilities. 
 
-##### **IV. _Phygital experience_ and users’ vulnerability*
+##### **IV. Phygital experience and users’ vulnerability**
 
 In the metaverse, digital vulnerability - accentuated by the possibility of acquiring biometric and cognitive data, including through eye-tracking - and the presence of avatars (which very often are the projection, even in physical connotations, of the human being who acts), together with the strong personalisation of services, can reduce the perception of risks. This may also be determined by unconscious submission to profiling techniques and subjection to unfair commercial practices that increasingly affect awareness of the consequences of one’s choices and actions.
    
