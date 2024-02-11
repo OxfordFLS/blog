@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Banking and financial services in the metaverse: Between new operational models, social inclusion and exploitation of individual vulnerabilities" 
-author: Daniel Foa
+author: ofls
 categories: [ fintech ]
 image: assets/images/metaverse.jpeg
 ---
