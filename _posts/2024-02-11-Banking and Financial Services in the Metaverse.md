@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Banking and financial services in the metaverse. Between new operational models, social inclusion and exploitation of individual vulnerabilities" 
+title: "Banking and financial services in the metaverse: Between new operational models, social inclusion and exploitation of individual vulnerabilities" 
 author: Daniel Foa
 categories: [ fintech ]
 image: assets/images/metaverse.jpeg
@@ -70,18 +70,33 @@ Finally, user education will be fundamental: it can improve their understanding 
 [1] Among others, I. Hupont Torres, et al., Next Generation Virtual Worlds: Societal, Technological, Economic and Policy Challenges for the EU, 2023; Y.K. Dwivedi et al., Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy, International Journal of Information Management, 2022, p. 66 ff.; T. Madiega et al., Metaverse. Opportunities, risks and policy implications, EPRS (European Parliamentary Research Service), PE 733.557, June 2022.
 
 [2] European Commission, Communication ‘An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological transition’, 11.7.2023, COM(2023) 442/final.
+
 [3] While this definition has the merit of capturing the main elements of the ecosystem, it does not appear sufficiently future-oriented and functional for regulation. An alternative proposal was formulated in F. Di Porto - D. Foà, Defining Virtual Worlds: Main Features and Regulatory Challenges, Issue Paper, CERRE - Centre on Regulation in Europe, July 2023.
+
 [4] F. Di Porto - D. Foà, Defining virtual worlds, cited, p. 12.
+
 [5] On this point also C.A. Mauro - V. Lemma, Metaverse. Economic entropy and market regulation processes, Open Review of Management, Banking and Finance, May 2022.
+
 [6] S. Sarkar, Banking in Metaverse Opportunities and Challenges, The Management Accountant Journal, 2023, 58.1, p. 65, which offers an examination of the various concrete applications of Metaverse banking today by a number of market participants and M. Abbott, The metaverse has got banks thinking about a radically different future, Forbes, 14 September 2022.
+
 [7] S. Sarkar, Banking in Metaverse, cited, p. 65 ff.
+
 [8] Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
+
 [9] Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022.
+
 [10] See EBA Guidelines on ICT and security risk management, EBA/GL/2019/04, 29 November 2019. 
+
 [11] On the concept of digital consumer vulnerability see F. Lupiáñez-Villanueva, et al., Behavioural study on unfair commercial practices in the digital environment: dark patterns and manipulative personalisation, Final Report European Commission, April 2022.
+
 [12] D. Kahneman - A. Tversky, Prospect theory: an analysis of decisions under risk, Econometrica, 1979, 47, p. 263 ff.
+
 [13] Some research on consumer behaviour has shown a tendency to underestimate the risks of transactions. A premature termination of the search for and collection of relevant information on the transaction they were about to conclude was recorded, due to the intuitive perception that they were already sufficiently informed. See J.A. Luzak, To withdraw or not to withdraw? Evaluation of the mandatory right of withdrawal in consumer distance selling contracts taking into account its behavioural effects on consumers, Amsterdam Law School Legal Studies Research Paper No. 2013-21, Centre for the Study of European Contract Law Working Paper No. 2013-04.
+
 [14] A. Davola, Fostering Consumer Protection in the Granular Market:: the Role of Rules on Consent, Misrepresentation and Fraud in Regulating Personalized Practices, Technology and Regulation, 2021, p. 76 ff..
+
 [15] EBA, Guidelines on product oversight and governance arrangements for retail banking products, EBA/GL/2015/18, 15 June 2015.
+
 [16] A proposal on the modification of the distance marketing of financial services regulation has already been formulated, see European Commission, Proposal for a Directive of the European Parliament and of the Council amending Directive 2011/83/EU concerning distance contracts for financial services and repealing Directive 2002/65/EC, COM(2022) 204 final 2022/0147 (COD), 11.5.2022.
+
 [17] In this regard, the introduction of tools to assess the client’s actual understanding of the implications of the use of certain technologies could be useful (even envisaging blocking effects, similar to the suitability test under MIFID). This hypothesis was put forward by F. Annunziata, Retail Investment Strategy How to boost retail investors’ participation in financial markets, Study requested by ECON Committee, June 2023, p. 7.
