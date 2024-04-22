@@ -148,6 +148,12 @@ authors:
     avatar: 'assets/images/Hatim Hussain.jpeg'
     linkedin: in/hatim-hussain/
     description: "Hatim is currently pursuing PhD in Law at the University of Oxford and is the President of the Oxford FinTech and LegalTech Society." 
+  Manana Begiashvili:
+    name: Manana Begiashvili
+    display_name: Manana Begiashvili
+    avatar: 'assets/images/Manana Begiashvili.jpg'
+    linkedin: company/oxfordfls/
+    description: "Ms. Manana Begiashvili is the Head of Administration (Department) of the Ministry of Justice of Georgia." 
     
 # Plugins
 plugins:
