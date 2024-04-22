@@ -2,7 +2,7 @@
 layout: post
 title: "OFLS launches Digital Academy of Legal Tech for the Ministry of Justice of Georgia" 
 author: Manana Begiashvili
-categories: [ Legaltech ]
+categories: [ Fintech ]
 image: assets/images/legaltech-academy.jpg
 ---
 On 27th March 2024, the Ministry of Justice of Georgia held an inauguration ceremony for the ["Digital Academy of Legal Tech"] (https://justice.gov.ge/?m=articles&id=KHZtbaLgmY&lang=2). The academy is funded by the Ministry of Justice of Georgia as a winner of the grant competition. It was established in cooperation with Oxford University Fintech and LegalTech Society and a German LegalTech company [KnowledgeTools International GmbH] (https://www.linkedin.com/company/knowledgetools/).
