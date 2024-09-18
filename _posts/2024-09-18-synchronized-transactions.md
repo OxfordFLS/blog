@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On the Legality of Synchronized Transactions" 
+title: "On the Legality of Synchronized Transactions in India" 
 author: Hatim Hussain
 categories: [ fintech ]
 image: assets/images/stock market transaction.jpg
