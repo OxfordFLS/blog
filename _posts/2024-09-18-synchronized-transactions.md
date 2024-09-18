@@ -37,7 +37,7 @@ This is precisely what makes synchronised transactions such a controversial issu
 
 Indian Courts have held that synchronised trades undertaken with a manipulative intent can lead to the violation of the PFUTP Regulations’ provisions. Interestingly, these decisions follow two divergent approaches – one observing that synchronised transactions are manipulative by default, whereas the other acknowledging that such practices are not illegal unless carried out with a manipulative intent. 
 
-_i.	Synchronised transactions categorized inherently manipulative _
+_i.	Synchronised transactions categorized inherently manipulative_
 
 The former set of decisions note that synchronised trading interferes with the price discovery process of the stock exchange, thus leading to manipulation. (20) This implicit intention (21) or understanding between the parties amounts to tampering with the price discovery mechanism. (22)  It, therefore, violates ‘all prudential and transparent norms on trading in securities’. (23) 
 
