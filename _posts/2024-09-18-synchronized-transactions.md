@@ -3,7 +3,7 @@ layout: post
 title: "On the Legality of Synchronized Transactions" 
 author: Hatim Hussain
 categories: [ fintech ]
-image: assets/images/cryptoevent.jpeg
+image: assets/images/stock market transaction.jpg
 ---
 ##### **I.	Introduction**
 
@@ -83,43 +83,81 @@ _Hatim Hussain is a DPhil Law Candidate at University of Oxford and the Presiden
 **Footnotes**
 
 (1) Malkiel BG, ‘Is the Stock Market Efficient?’ [1989] 243 Science <www.jstor.org/stable/1703677>
+
 (2) SEBI v Rakhi Trading Private Limited [2018] (2) SCALE 156, < https://www.sebi.gov.in/enforcement/orders/feb-2018/order-of-hon-ble-supreme-court-in-the-matter-of-sebi-vs-rakhi-trading-and-other-connected-civil-appeals-_37831.html> 
+
 (3) Unlike in certain other jurisdictions, there is no prescribed regulatory framework in India governing synchronised transactions. Having said that, certain Indian regulatory provisions which have a bearing on the structuring of such transactions include the Securities and Exchange Board of India (Prohibition of Fraudulent and Unfair Trade Practices relating to the Securities Market) Regulations 2003 (hereinafter, ‘PFUTP Regulations’); SEBI Circular No. SMDRP/POLICY/CIR-20/98 dated 18 September 1998; SEBI Circular No. SMDRP/POLICY/CIR-32/99 dated 14 September 1999 and SEBI Circular SEBI/MRD/SE/Cir-7/2004 dated 14 January 2004, as well as case law.
+
 (4) See, Securities and Exchange Board of India, Disclosure of trade details of bulk deals, SEBI/MRD/SE/Cir-7/2004 [2004] <https://www.sebi.gov.in/legal/circulars/jan-2004/disclosure-of-trade-details-of-bulk-deals_11912.html>. The circular defines bulk deals as “all transactions in a scrip (on an exchange) where total quantity of shares bought/sold is more than 0.5% of the number of equity shares of the company listed on the exchange” and provides for certain reporting requirements by brokers. 
+
 (5) Such transactions (also called ‘large-in-scale’ deals in UK) are executed through a block window before trading begins every day, usually at a discount (of -/+ 1%) on previous day’s closing price. These deals are useful for private equity investors where large acquisition of shares is required to be made on-market. The window for executing block deals is open two times on daily basis in India. See, Rachael Israel, et al, “India: Completing An M&A Transaction On-Market - Certain Key Considerations” (2020), Mondaq <https://www.mondaq.com/india/securities/906756/completing-an-ma-transaction-on-market--certain-key-considerations>. For most updated regulatory framework for block deals executed on stock exchanges, see, Securities Exchange Board of India, Review of Block Deal Window Mechanism, CIR/MRD/DP/118/2017 [2017], <https://www.sebi.gov.in/legal/circulars/oct-2017/review-of-block-deal-window-mechanism_36338.html>.
+
 (6) Securities Exchange Board of India,  SEBI Circular No. SMDRP/POLICY/CIR-20/98 [1998], < https://www.sebi.gov.in/legal/circulars/apr-1998/to-e-ds-presidents-m-ds-of-all-stock-exchanges_18575.html> (hereinafter, ‘1998 SEBI Circular’). According to the circular, a negotiated deal is defined as a transaction with either a transaction value of not less than Rs. 25 lakh or volume of not less than 10,000 shares, executed at a price not formed through the stock exchange mechanism. The circular requires, inter alia, that all negotiated transactions result in the delivery of shares and be subject to certain reporting requirements. 
+
 (7) Colloquially, synchronised trading is also called “123 trading” based on traders’ practice of counting up to three before selling shares. Unlike block deals where transactions are sold at a predetermined rate of discount, discount on synchronised trades is not regulated by Securities and Exchange Board of India. The market practice for discount on such trades is 3-4% of market price. See, “Shh! Don't Talk about Synchronised Trading”, International Financial Law Review (2010), <https://www.iflr.com/article/b1lv134nvmt962/shh-dont-talk-about-synchronised-trading>
+
 (8) For more information, see, Securities and Exchange Board of India <https://www.sebi.gov.in/>
+
 (9) ibid 5. In a distinction from SEBI’s approach to synchronised transactions, the 1998 SEBI Circular classified all negotiated deals as legal, irrespective of the manipulative intent.  
+
 (10) See, ICICI Brokerage Services Limited, Order of the Chairman [2004], <https://www.casemine.com/judgement/in/5af1ac0118a681762b08fe32> (‘Order of the Chairman’)
+
 (11) ibid 9, the relevant excerpt is stated in para 4 (Consideration of issues) of the Order of the Chairman. 
+
 (12) Subhkam Securities Private Limited v SEBI, Appeal No 73 of 2012, [2012] < http://sat.gov.in/english/pdf/E2012_JO201273.PDF>
+
 (13) PFUTP Regulations, 2003 < https://www.sebi.gov.in/legal/regulations/jul-2003/sebi-prohibition-of-fraudulent-and-unfair-trade-practices-relating-to-securities-market-regulations-2003-last-amended-on-september-6-2013-_34633.html>, r 3 [Prohibition of certain dealings in securities]
+
 (14) ibid, r 4 [Prohibition of manipulative, fraudulent and unfair trade practices]. The acts prohibited by regulation 4 include acts or omissions amounting to manipulation of the price of a security, circular transactions, acts undertaken to cause price fluctuation or price movement in a particular manner and transactions that do not involve a change in beneficial ownership. 
+
 (15) ibid 12, r. 2(1)(c) [Definition of Fraud]. Regulation 2(1)(c) provides that the term fraud ‘includes any act, expression, omission or concealment committed whether in a deceitful manner or not by a person or by any other person with his connivance or by his agent while dealing in securities in order to induce another person or his agent to deal in securities, whether or not there is any wrongful gain or avoidance of any loss...’.
+
 (16) i.e. SEBI (Prohibition of Fraudulent and Unfair Trade Practices relating to the Securities Market) Regulations, 1995, <https://www.sebi.gov.in/sebi_data/commondocs/act11_p.pdf>  
+
 (17) Pyramid Saimira Theatre Ltd. v. SEBI [2010] 100 SCL 224 (SAT) <https://www.sebi.gov.in/satorders/Pyramidsat.pdf>. The SAT in this case held that the intention to deceive was not an essential requirement to demonstrate a contravention of the FUTP Regulations. 
+
 (18) Nevertheless, courts have extensively analysed manipulative intent, which has been held, in most cases, to be a malafide intention to create a misleading appearance of trading, though the evidence of manipulative intent almost always depends on inferences drawn from a mass of factual data. See, SEBI v Rakhi Trading Private Limited [2018] (2) SCALE 156 (¶ 20); Securities and Exchange Board of India and Ors. v. Shri Kanaiyalal Baldevbhai Patel and Ors. [2017] SCC Online SC 1148 (¶ 31) and SEBI v Kishore Ajmera, AIR 2016 SC 1079 (¶ 26).
+
 (19) Primarily, the Securities Exchange Board of India (SEBI), Securities Appellate Tribunal (SAT) and the Supreme Court of India (SC).
+
 (20) Triumph International Finance Limited v SEBI Appeal No 35 of 2002, [2007], < https://indiankanoon.org/doc/1968025/> 
+
 (21) Nirmal Bang Securities Private Limited v The Chairman SEBI [2004] 49 SCL 421 (SAT), < https://indiankanoon.org/doc/1920414/>. The relevant ¶ 249 reproduced as follows: “…I find the scrip, quantity and price for these orders had been synchronised by the counter party brokers. Such transactions undoubtedly create an artificial market to mislead the genuine investors. Synchronised trading is violative of all prudential and transparent norms of trading in securities. Synchronised trading on a large scale, can create false volumes… In a synchronised trading intention is implicit.”
+
 (22) SEBI v Shankar Lal Chokhany, [2007] < https://indiankanoon.org/doc/754691/>; SEBI v Delhi Securities Limited, Order No  WTM/GA/13/IVD/5/07 [2007], < https://indiankanoon.org/doc/427598/> 
+
 (23) ibid 20 
+
 (24) SAT is an appellate body under Securities and Exchange Board of India Act, 1992
+
 (25) ibid 19-21
+
 (26) HB Stockholdings Limited v SEBI Appeal No 114 of 2012 [2013] < http://sat.gov.in/ENGLISH/PDF/E2013_JO2012160.PDF>. In this case, it was held that if an entity has no intent to artificially influence the market and induce investors to buy or sell shares on the basis of artificial transactions, wrongdoing is not established even if it is proved that the entity indulged in synchronised trading.
+
 (27) SPJ Stock Brokers Private Limited v SEBI Appeal No 52 of 2013, [2013] < http://sat.gov.in/ENGLISH/PDF/E2013_JO201352.PDF> 
+
 (28) SEBI v Kishore Ajmera AIR 2016 SC 1079, < https://www.sebi.gov.in/enforcement/orders/feb-2016/order-of-the-hon-ble-supreme-court-in-the-matters-of-kishore-r-ajmera-ess-ess-intermediaries-pvt-ltd-and-other-tagged-matters_31815.html>. The Supreme Court held that “circular and synchronised trades are not prohibited per se and are, in fact, regulated by SEBI”. See also, In Re: Samurai Securities Private Limited, Adjudication Order No. EAD/NP/JS/AO/26/2017 [2017]
+
 (29) Securities and Exchange Board of India, Informal Guidance Letter to Ram Kishan Chiripal Stock & Share Brokers [2004] <https://www.sebi.gov.in/enforcement/informal-guidance/dec-2004/request-for-informal-guidance-under-clauses-4-and-5-ii-of-the-sebi-informal-guidance-scheme-2003-ram-kishan-chiripal-stock-and-share-brokers_10042.html> 
+
 (30) SEBI v Rakhi Trading Private Limited [2018] (2) SCALE 156,  <https://www.sebi.gov.in/enforcement/orders/feb-2018/order-of-hon-ble-supreme-court-in-the-matter-of-sebi-vs-rakhi-trading-and-other-connected-civil-appeals-_37831.html> 
+
 (31) ibid 19-22 (noting that synchronised trading interferes with the price discovery process of the stock exchange, and thus amounts to manipulation) and 26-30 (noting that even if synchronised trading is proved, guilt cannot be established if there is no intent to artificially influence the market and induce investors to buy or sell shares).
+
 (32) Re: Frontline Biosystems Private Limited and Others, Adjudication Order No EAD-5/SVKM/AO/63-74/2017-18 [2017] <https://www.sebi.gov.in/enforcement/orders/jun-2017/adjudication-order-against-12-entities-in-the-matter-suraj-ltd-_35218.html> . In reviewing this, the tribunal may scrutinize facts including the liquidity of the traded scrip market volumes before and after the transactions, particulars of the buy/sell orders, the proximity of time between orders, etc. See also ibid 27; In this case, the SC noted that the test is always based on the inferential process adopted by a reasonable/prudent man to arrive at a conclusion.
+
 (33) In Khandwala Securities Limited v SEBI [2017] 141 SCL 77 (SAT), <http://sat.gov.in/english/pdf/E2017_JO2015283.PDF>. Here, the Securities Appellate Tribunal noted that in circumstances where orders are placed at far-away prices with an objective to manipulate the market, it amounts to a violation of the FUTP Regulations. High quantity orders repeatedly placed at prices far away not resembling the market prices is a sufficient inference for the Court to arrive at this conclusion; See also Re: Gangotri Textiles Limited and Others Order No WTM/GM/EFD-DRA-III/09/MAY/2017 [2017], <https://www.sebi.gov.in/sebi_data/attachdocs/may-2017/1494846207855.pdf>. SEBI observed that absence of direct proof of connection does not mean the lack of illegal synchronisation. However, where there are large scale repeated transactions with an impact on volume and price on otherwise illegal securities, it may infer illegal synchronisation.
+
 (34) ibid 30
+
 (35) See, Craig P, ‘Squeezes, Corpses, and the Anti-Manipulation Provisions of the Commodity Exchange Act’ (1994) 52(4) Regulation < https://www.bauer.uh.edu/spirrong/pirrong_manipulation_regulation.pdf>; Merritt Fox et al, ‘Stock Market Manipulation and Its Regulation’ (2018) Yale Journal of Regulation 35(1) < https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2978&context=articles>; Daniel Fischel, ‘Should the Law Prohibit 'Manipulation' in Financial Markets?’ (1991) Harvard Law Review 105 <https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1554&context=journal_articles>
+
 (36) Reg. 4 prohibits “an unfair trade practice in securities” that (a) creates false or misleading appearance of trading or (b) amounts to manipulation of price of security, among others. However, while the second of the two proscriptions listed above target actions that would otherwise form a part of any trading activity, the first is dependent on a vague standard relating to purpose. See, PFUTP Regulations, 2003 < https://www.sebi.gov.in/legal/regulations/jul-2003/sebi-prohibition-of-fraudulent-and-unfair-trade-practices-relating-to-securities-market-regulations-2003-last-amended-on-september-6-2013-_34633.html>, r 4 [Prohibition of manipulative, fraudulent and unfair trade practices] 	  
+
 (37) Mark Hulbert, ‘The Mystery of the Stock Price and the Strike Price’(New York Times, 7 May, 2006) <https://www.nytimes.com/2006/05/07/business/yourmoney/07stra.html>
+
 (38) Fischel, ibid 35 at 18
+
 (39) Jerry Markham, Law Enforcement and the History of Financial Market Manipulation (1st edn, Routledge 2014) 147 <https://ecollections.law.fiu.edu/faculty_books/27/>; Gina-Gail Fletcher, ‘Legitimate Yet Manipulative: The Conundrum of Open Market Manipulation’ (2018) Duke Law Journal 68 (479) 
 <https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1554&context=journal_articles>
 
